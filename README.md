@@ -9,3 +9,5 @@ Link de paginas interesantes
 [React-imask](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/react-imask)
 
 [FullCalendar](https://github.com/fullcalendar/fullcalendar)
+
+[React DataTable Component](https://github.com/jbetancur/react-data-table-component#demo-and-examples)
