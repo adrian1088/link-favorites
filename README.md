@@ -11,3 +11,5 @@ Link de paginas interesantes
 [FullCalendar](https://github.com/fullcalendar/fullcalendar)
 
 [React DataTable Component](https://github.com/jbetancur/react-data-table-component#demo-and-examples)
+
+[guide-to-the-modern-minimal-ui-style](https://uxdesign.cc/a-guide-to-the-modern-minimal-ui-style-531ac1e9fbfe)
