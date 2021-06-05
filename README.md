@@ -18,3 +18,5 @@ Link de paginas interesantes
 [feathericons](https://feathericons.com/)
 
 [listjs](https://listjs.com/examples/add-get-remove/)
+
+[Simple-DataTables](https://github.com/fiduswriter/Simple-DataTables)
