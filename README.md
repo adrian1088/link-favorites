@@ -1,7 +1,7 @@
 # Link-Favorites
 Link de paginas interesantes
 
-[React Credit Cards](https://www.npmjs.com/package/react-credit-cards) | 
+[React Credit Cards](https://www.npmjs.com/package/react-credit-cards)
 
 [React Credit Cards respo](https://github.com/amarofashion/react-credit-cards)
 
