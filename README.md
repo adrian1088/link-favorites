@@ -20,3 +20,5 @@ Link de paginas interesantes
 [listjs](https://listjs.com/examples/add-get-remove/)
 
 [Simple-DataTables](https://github.com/fiduswriter/Simple-DataTables)
+
+[formvalidation](https://formvalidation.io/)
