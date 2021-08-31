@@ -24,3 +24,9 @@ Link de paginas interesantes
 [formvalidation](https://formvalidation.io/)
 
 [undraw](https://undraw.co/) Ilustracion en svg and png
+
+[storyset](https://storyset.com/) Ilustracion en svg and png
+
+[iconscout](https://iconscout.com/free-illustrations) Ilustracion en svg and png
+
+[free-illustrations-for-websites](https://superdevresources.com/free-illustrations-for-websites/)
