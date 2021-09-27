@@ -30,3 +30,5 @@ Link de paginas interesantes
 [iconscout](https://iconscout.com/free-illustrations) Ilustracion en svg and png
 
 [free-illustrations-for-websites](https://superdevresources.com/free-illustrations-for-websites/)
+
+[future-proof-node-js-express-boilerplate](https://giuseppealbrizio.medium.com/future-proof-node-js-express-boilerplate-2cd4a2efc24f)
