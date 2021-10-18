@@ -32,3 +32,4 @@ Link de paginas interesantes
 [free-illustrations-for-websites](https://superdevresources.com/free-illustrations-for-websites/)
 
 [future-proof-node-js-express-boilerplate](https://giuseppealbrizio.medium.com/future-proof-node-js-express-boilerplate-2cd4a2efc24f)
+[unit-of-work-in-repository-pattern](https://www.c-sharpcorner.com/UploadFile/b1df45/unit-of-work-in-repository-pattern/)
