@@ -37,3 +37,5 @@ Link de paginas interesantes
 [Repository & Unit of Work design patterns in .NET Core with practical examples](https://enlabsoftware.com/development/how-to-implement-repository-unit-of-work-design-patterns-in-dot-net-core-practical-examples-part-one.html)
 
 [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+
+[use-of-react-native-animation-libraries](https://medium.com/nerd-for-tech/use-of-react-native-animation-libraries-to-grow-your-business-16c4abc1544a)
