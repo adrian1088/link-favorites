@@ -39,3 +39,32 @@ Link de paginas interesantes
 [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 
 [use-of-react-native-animation-libraries](https://medium.com/nerd-for-tech/use-of-react-native-animation-libraries-to-grow-your-business-16c4abc1544a)
+
+
+
+
+  Sub Main()
+    ' Change current culture to ar-SA.
+    Dim ci As Globalization.CultureInfo = New Globalization.CultureInfo("es-MX")
+
+    Dim dateValue As DateTime = New DateTime(2022, 1, 1)
+    Dim hey = GetDates(2022, 2)
+    For Each item In hey
+      Console.WriteLine($" Date: {item}")
+      Console.WriteLine($" Name of the day of the week: {item.ToString("ddd", ci)}")
+      Console.WriteLine($" Number of the day : {item.Day}")
+      Console.WriteLine("------------------------------------------------------")
+    Next
+    Console.ReadKey()
+  End Sub
+
+  Public Function GetDates(year As Integer, month As Integer) As List(Of Date)
+    Return Enumerable.Range(
+            1,
+            Date.DaysInMonth(year, month)).
+           [Select](
+            Function(day) New DateTime(year, month, day)
+           ).ToList()  ' Days: 1, 2 ... 31 etc.
+    ' Map each day to a date
+    ' Load dates into a list
+  End Function
