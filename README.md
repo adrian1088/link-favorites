@@ -39,3 +39,18 @@ Link de paginas interesantes
 [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 
 [use-of-react-native-animation-libraries](https://medium.com/nerd-for-tech/use-of-react-native-animation-libraries-to-grow-your-business-16c4abc1544a)
+
+private List<DateTime> GetDatesCurrentWeek(DateTime currentDate)
+{
+    int currentDayOfWeek = (int)currentDate.DayOfWeek;
+    var sunday = currentDate.AddDays(-currentDayOfWeek);
+    var monday = sunday.AddDays(1d);
+    // If we started on Sunday, we should actually have gone *back*
+    // 6 days instead of forward 1...
+    if (currentDayOfWeek == 0)
+    {
+        monday = monday.AddDays(-7);
+    }
+
+    return Enumerable.Range(0, 7).Select(days => monday.AddDays(days)).ToList();
+}
